@@ -1,0 +1,17 @@
+# Core data analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Hadoop/Hive connectivity used/documented in the project
+PyHive
+
+# Notebook execution
+jupyter
+ipykernel
